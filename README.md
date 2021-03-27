@@ -8,6 +8,6 @@ My name is **Johnson** and I am currently a **first-year** student studying **Co
 
 ### Stats 📉
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=JohnsonL111&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnsonL111&theme=tokyonight&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=JohnsonL111&theme=tokyonight" />
+<img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnsonL111&theme=tokyonight&layout=compact" />
 
