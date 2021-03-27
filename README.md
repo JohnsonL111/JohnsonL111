@@ -7,7 +7,7 @@ My name is **Johnson** and I am currently a **first-year** student studying **Co
 - 📧 Or to contact me here: jkl53@sfu.ca
 
 ### Stats 📉
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=JohnsonL111&theme=tokyonight" />
-<img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnsonL111&theme=tokyonight&layout=compact" />
-
+<div>
+<img style ="float: left" src="https://github-readme-stats.vercel.app/api/?username=JohnsonL111&theme=tokyonight" />
+<img style ="float: left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnsonL111&theme=tokyonight&layout=compact" />
+</div>
