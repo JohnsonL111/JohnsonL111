@@ -8,5 +8,6 @@ My name is **Johnson** and I am currently a **first-year** student studying **Co
 
 ### Stats 📉
 <div style = "float: left" >
-<img src="https://github-readme-stats.vercel.app/api/?username=JohnsonL111&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnsonL111&theme=tokyonight&layout=compact" />
+<img width = "360px" padding = "10px" src="https://github-readme-stats.vercel.app/api/?username=JohnsonL111&theme=tokyonight" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnsonL111&theme=tokyonight&layout=compact" />
 </div>
