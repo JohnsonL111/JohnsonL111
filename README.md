@@ -7,6 +7,7 @@ My name is **Johnson** and I am currently a **second-year** student studying **C
 
 🍎 I am currently learning:
 > - SQL
+> - Ruby on Rails
 > - Refreshing knowledge on HTML/CSS/JS
 
 🤔 I am currently Working on:
