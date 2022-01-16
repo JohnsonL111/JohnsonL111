@@ -8,10 +8,12 @@ My name is **Johnson** and I am currently a **second-year** student studying **C
 🍎 I am currently learning:
 > - SQL
 > - Refreshing knowledge on HTML/CSS/JS
-</br>
-🍎 I am currently Working on:
+
+🤔 I am currently Working on:
 > - A portfolio Site 
-> - Sleeping earlier 
+> - Fixing my sleep schedule (real talk).
+
+</br>
 
 - ✨ Other than Programming 💻 I also enjoy anime 🍣, badminton🏸, dragon boating🚣, philosophy📚, and a good cup of coffee☕ </br>
 - 📫 Feel free to connect with me here: https://www.linkedin.com/in/johnson-luong-2270371b8/ </br>
