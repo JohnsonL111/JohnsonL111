@@ -6,13 +6,14 @@
 My name is **Johnson** and I am currently a **second-year** student studying **Computer Science with a minor in philosophy** at **Simon Fraser University (located in Burnaby, BC)** 
 
 🍎 I am currently learning:
-- Ruby on Rails
-- SQL
+> - Ruby on Rails
+> - SQL
 </br>
 
-✨ Other than Programming 💻 I also enjoy anime, badminton🏸, dragon boating🚣, philosophy📚, and (of course) coffee☕ </br>
-📫 Feel free to connect with me here: https://www.linkedin.com/in/johnson-luong-2270371b8/ </br>
-📧 Or to contact me here: jkl53@sfu.ca </br> </br>
+
+- ✨ Other than Programming 💻 I also enjoy anime 🍣, badminton🏸, dragon boating🚣, philosophy📚, and a good cup of coffee☕ </br>
+- 📫 Feel free to connect with me here: https://www.linkedin.com/in/johnson-luong-2270371b8/ </br>
+- 📧 Or to contact me here: jkl53@sfu.ca </br> </br>
 
 ### Stats 📉
 <div style = "float: left" >
