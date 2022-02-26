@@ -14,6 +14,7 @@ My name is **Johnson** and I am currently a **second-year** student studying **C
 
 </br>
 
+- 👨‍💻 Incoming Software Developer co-op @ Peloton Technologies
 - ✨ Other than Programming 💻 I also enjoy anime 🍣, badminton🏸, dragon boating🚣, philosophy📚, and a good cup of coffee☕ </br>
 - 📫 Feel free to connect with me here: https://www.linkedin.com/in/johnson-luong-2270371b8/ </br>
 - 📧 Or to contact me here: jkl53@sfu.ca </br> </br>
