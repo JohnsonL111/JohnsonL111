@@ -9,7 +9,6 @@ My name is **Johnson** and I am currently a **second-year** student studying **C
 > - SQL
 
 🤔 I am currently Working on:
-> - A portfolio Site 
 > - Fixing my sleep schedule (real talk).
 
 </br>
