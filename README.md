@@ -1,9 +1,9 @@
 
 ### Hello!👋
-##### Welcome to the small corner of the internet that is my Github profile 🤭
+##### Welcome to this small corner of the internet 
 
 
-My name is **Johnson** and I am currently a **second-year** student studying **Computer Science with a minor in philosophy** at **Simon Fraser University (located in Burnaby, BC)** 
+My name is **Johnson** and I am currently a **third-year** student studying **Computer Science with a minor in philosophy** at **Simon Fraser University (located in Burnaby, BC)** 
 
 🍎 I am currently learning:
 > - C# .NET MVC
