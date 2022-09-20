@@ -13,7 +13,7 @@ My name is **Johnson** and I am currently a **third-year** student studying **Co
 
 </br>
 
-- 👨‍💻 Incoming software dev coop @ Powerex, prev: software dev coop @ Peloton Technologies
+- 👨‍💻 Incoming Spring software dev coop @ Powerex, prev: software dev coop @ Peloton Technologies
 - ✨ Tim Horton's Cold Brew w/ Espresso-Infused Foam is the bomb.🥴
 - 📫 Feel free to connect with me here: https://www.linkedin.com/in/johnson-luong-2270371b8/ </br>
 - 📧 Or to contact me here: jkl53@sfu.ca </br> </br>
