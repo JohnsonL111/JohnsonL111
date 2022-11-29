@@ -13,7 +13,7 @@ My name is **Johnson** and I am currently a **third-year** student studying **Co
 
 </br>
 
-- 👨‍💻 Incoming spring 2023 Software Dev coop @ Powerex, prev: Software Dev coop @ Peloton Technologies
+- 👨‍💻 Spring 2023 Software Developer coop @ Powerex, prev: Software Developer coop @ Peloton Technologies
 - ✨ Coffee addict forreal.
 - 📫 Feel free to connect with me here: https://www.linkedin.com/in/johnson-luong-2270371b8/ </br>
 - 📧 Or to contact me here: jkl53@sfu.ca </br> </br>
