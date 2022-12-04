@@ -5,9 +5,6 @@
 
 My name is **Johnson** and I am currently a **third-year** student studying **Computer Science with a minor in philosophy** at **Simon Fraser University (located in Burnaby, BC)** 
 
-🍎 I am currently learning:
-> - C# .NET MVC
-
 🤔 I am currently Working on:
 > - Fixing my sleep schedule (real talk). 
 
