@@ -3,7 +3,7 @@
 ##### Welcome to this small corner of the internet 
 
 
-My name is **Johnson** and I am currently a **third-year** student studying **Computer Science with a minor in philosophy** at **Simon Fraser University (located in Burnaby, BC)** 
+My name is **Johnson** and I am currently a **third-year** student studying **Computer Science and minoring in philosophy** at **Simon Fraser University (located in Burnaby, BC)** 
 
 🤔 I am currently Working on:
 > - Fixing my sleep schedule (real talk). 
