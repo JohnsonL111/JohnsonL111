@@ -15,9 +15,5 @@ My name is **Johnson** and I am currently a **third-year** student studying **Co
 - 📫 Feel free to connect with me here: https://www.linkedin.com/in/johnson-luong-2270371b8/ </br>
 - 📧 Or to contact me here: jkl53@sfu.ca </br> </br>
 
-### Stats 📉
-<div style = "float: left" >
-<img width = "360px" padding = "10px" src="https://github-readme-stats.vercel.app/api/?username=JohnsonL111&theme=tokyonight" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnsonL111&theme=tokyonight&layout=compact" />
 
 
