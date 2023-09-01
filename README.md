@@ -9,8 +9,8 @@
 
 </br>
 
-- 👨‍💻 Current: Software Developer coop @ Powerex, prev: Software Developer coop @ Peloton Technologies
-- ✨ Coffee addict forreal.
+- 👨‍💻 Current: Seeking Summer 2024 internships! prev: Software Developer coop @ Powerex, Peloton Technologies
+- ✨ (No longer) a Coffee addict forreal. ~~now a lemonade addict~~
 
 
 
