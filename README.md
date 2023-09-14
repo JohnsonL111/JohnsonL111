@@ -9,7 +9,7 @@
 
 </br>
 
-- 👨‍💻 Current: Seeking Summer 2024 internships! prev: Software Developer coop @ [Powerex](https://powerex.com/), [Peloton Technologies](https://peloton-technologies.com/)
+- 👨‍💻 Current: Seeking Jan/Summer 2024 internships! prev: Software Developer coop @ [Powerex](https://powerex.com/), [Peloton Technologies](https://peloton-technologies.com/)
 - ✨ (No longer) a Coffee addict forreal. ~~now a lemonade addict~~
 
 
