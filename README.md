@@ -1,16 +1,20 @@
 
-### Hello!👋
-##### Welcome to this small corner of the internet 
+### Hello, I'm Johnson!👋
 
-🤔 I am currently Working on:
-> - Fixing my sleep schedule (real talk). 
-> - (trying to) meet my 2023 reading goals (surely I can read 15 books... surely).
-> - Learning Next.js and .NET Web APIs/Entity Framework
+I'm currently a student at SFU studying Computer Science and minoring in Philosophy. I am broadly interested in full-stack development and data ETL/databases!
 
-</br>
+---
 
-- 👨‍💻 Current: Seeking Jan/Summer 2024 internships! prev: Software Developer Intern @ [Powerex](https://powerex.com/), [Peloton Technologies](https://peloton-technologies.com/)
-- ✨ (No longer) a Coffee addict forreal. ~~now a lemonade addict~~
+#### Currently:
+- Co-President @ [SFU Surge](https://sfusurge.com/), we organize [Stormhacks!⚡](https://stormhacks.com/)
+- Seeking for Jan/Summer internships
+- getting caught up on full-stack trends
+- [paddling!](https://www.instagram.com/dhvelocity/)
+- a lemonade addict
+---
+#### Previously
+- SDE Intern @ [Powerex](https://powerex.com/), SWE intern @ [Peloton Technologies](https://peloton-technologies.com/)
+- a coffee addict
 
-
-
+#### Reach out to me via
+[Linkedin](https://www.linkedin.com/in/johnson-luong/) | [Email](jkl53@sfu.ca)
