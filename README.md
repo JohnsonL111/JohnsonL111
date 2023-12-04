@@ -8,7 +8,6 @@ I'm currently a student at SFU studying Computer Science and minoring in Philoso
 #### Currently:
 - incoming SDE intern @ ICBC
 - Co-President @ [SFU Surge](https://sfusurge.com/), we organize [Stormhacks!⚡](https://stormhacks.com/)
-- Win24 cohort for [Develop For Good](https://www.developforgood.org/) as a SWE for the non-profit [https://involvemint.io/](https://involvemint.io/)
 - [paddling!](https://www.instagram.com/dhvelocity/)
 - a lemonade addict
 ---
