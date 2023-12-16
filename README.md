@@ -6,7 +6,7 @@ I'm currently a student at SFU studying Computer Science and minoring in Philoso
 ---
 
 #### Currently:
-- incoming SDE intern @ (ICBC)(https://www.icbc.com/)
+- incoming SDE intern @ [ICBC](https://www.icbc.com/)
 - Co-President @ [SFU Surge](https://sfusurge.com/), we organize [Stormhacks!⚡](https://stormhacks.com/)
 - [paddling!](https://www.instagram.com/dhvelocity/)
 - a tea addict
