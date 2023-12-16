@@ -6,14 +6,14 @@ I'm currently a student at SFU studying Computer Science and minoring in Philoso
 ---
 
 #### Currently:
-- incoming SDE intern @ ICBC
+- incoming SDE intern @ (ICBC)(https://www.icbc.com/)
 - Co-President @ [SFU Surge](https://sfusurge.com/), we organize [Stormhacks!⚡](https://stormhacks.com/)
 - [paddling!](https://www.instagram.com/dhvelocity/)
-- a lemonade addict
+- a tea addict
 ---
 #### Previously
 - SDE Intern @ [Powerex](https://powerex.com/), SWE intern @ [Peloton Technologies](https://peloton-technologies.com/)
-- a coffee addict
+- a coffee/lemonade addict
 
 #### Reach out to me via
 [Linkedin](https://www.linkedin.com/in/johnson-luong/) | [Email](jkl53@sfu.ca)
