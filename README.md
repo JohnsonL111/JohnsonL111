@@ -1,4 +1,4 @@
-
+> Going with the flow.
 ### Hello, I'm Johnson!👋
 ---
 [Digital Garden](https://johnsonl111.github.io/quartz/)
